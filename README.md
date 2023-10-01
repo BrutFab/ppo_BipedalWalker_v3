@@ -8,7 +8,7 @@ This repository contains Google Colab examples for training an Bipedal Walker, a
 
 If you discover new and exciting use cases, we'd love to hear about them!
 
-Don't forget to check out my [YouTube channel](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q) for more tutorials and insights on navigating the continually evolving landscape of AI!
+Don't forget to check out our [YouTube channel](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q) for more tutorials and insights on navigating the continually evolving landscape of AI!
 
 Support me @
 
