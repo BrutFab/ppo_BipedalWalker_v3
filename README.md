@@ -2,7 +2,7 @@
 
 Setting Up and training a bipedal Walker using ppo algorithm, and pushing it to huggingface,
 
-![WALKER GIF](https://github.com/BrutFab/ppo_BipedalWalker_v3/blob/master/walker.gif)
+![WALKER GIF](https://github.com/BrutFab/ppo_BipedalWalker_v3/blob/main/gif/walker.gif)
 
 This repository contains Google Colab examples for training an Bipedal Walker, as seen in my [YouTube tutorial](https://youtu.be/0WeLKNvtQXE). 
 
